@@ -53,7 +53,10 @@ Customer_Segmentation_Project/
 
 Watch the complete project demonstration below.
 
-[▶️ Customer Segmentation Demo](video/customer_segmentation_demo.mp4)
+▶️ **[Watch Demo Video](https://drive.google.com/file/d/1usjv_YM2JCHc1rOFybQyeJVnjVLl04oe/view?usp=sharing)**
+
+---
+
 
 ---
 
