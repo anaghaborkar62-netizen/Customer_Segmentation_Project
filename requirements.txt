@@ -1,6 +1,8 @@
+Python
 streamlit
 pandas
 numpy
 scikit-learn
 matplotlib
 seaborn
+SQLite
